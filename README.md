@@ -10,6 +10,13 @@ This project analyzes Formula 1 lap time data using the `f1dataR` R package. The
 
 - [Installation](#installation)
 - [Usage](#usage)
+## Usage
+
+1. **Clone the repository to your local machine**:
+   Open your terminal or command prompt and run the following command:
+   ```bash
+   git clone https://github.com/YourUsername/f1-data-analysis.git
+   
 - [Data Sources](#data-sources)
 - [Functions](#functions)
 - [Visualizations](#visualizations)
@@ -27,3 +34,4 @@ install.packages("f1dataR")
 # Or install the development version from GitHub
 if (!require("remotes")) install.packages("remotes")
 remotes::install_github("SCasanova/f1dataR")
+
